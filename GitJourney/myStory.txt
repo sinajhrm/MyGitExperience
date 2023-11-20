@@ -1,3 +1,2 @@
 Content for myStory.txt
 New content for myStory.txt
-Yet another new content for myStory.txt on feature-story branch
