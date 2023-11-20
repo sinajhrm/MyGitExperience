@@ -1,1 +1,2 @@
 Content for myStory.txt
+New content for myStory.txt
